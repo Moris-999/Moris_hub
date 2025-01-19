@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a deep love for co
 - 🎓 **Educational Background**: Graduated with a degree in Information Technology.
 - 🔬 **Research Interests**:data science.
 - 💻 **Passion**: Developing predictive models.
-- 📈 **Current Focus**: Building a cloud computing and software company and diving into data science projects.
+- 📈 **Current Focus**: creating predictive Models  to predict outcomes.
 
 ---
 
